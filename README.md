@@ -19,4 +19,4 @@ Before you run this code, you have to create a project at Google Developers Cons
 After you get API key, copy your API key to "android/app/src/main/AndroidManifest.xml" (Android).
 
 *Preview on my Instagram :*
-[Contact me | Follow me](https://lynk.id/haquix.design "Contact me | Follow me")
+[Contact me | Follow me](https://znap.link/haquix.design "Contact me | Follow me")
